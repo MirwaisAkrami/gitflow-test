@@ -16,3 +16,4 @@ New changes from gitflow feature branch 3
 
 New changes from gitflow feature branch 4
 
+This is a new update for release
