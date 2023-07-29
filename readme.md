@@ -10,4 +10,7 @@ Some other new updates you see
 
 Some new changes here
 
+Changes from feature 4
+
 New changes from gitflow feature branch 3
+
